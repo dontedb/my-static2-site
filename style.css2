@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Static Website</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Hello, GitHub Pages!</h1>
+  <p>This is my first static website.</p>
+</body>
+</html>
+
+body {
+  font-family: sans-serif;
+  background-color: #fefefe;
+  text-align: center;
+  padding-top: 50px;
+}
